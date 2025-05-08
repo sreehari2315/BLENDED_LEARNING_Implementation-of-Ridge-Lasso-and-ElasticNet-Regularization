@@ -121,12 +121,11 @@ plt.show()
 ```
 
 ## Output:
+![Screenshot 2025-05-08 102454](https://github.com/user-attachments/assets/e87c1aee-b577-4a7f-9e41-cadd67b0e304)
 
-![alt text](<Screenshot 2025-04-19 134119.png>)
+![Screenshot 2025-05-08 102508](https://github.com/user-attachments/assets/5f8fe502-2f03-4675-ad0c-0cb1589418d0)
 
-![alt text](<Screenshot 2025-04-19 134129.png>)
-
-![alt text](<Screenshot 2025-04-19 134139.png>)
+![Screenshot 2025-05-08 102431](https://github.com/user-attachments/assets/9c5798de-bbc1-4daf-b045-da75c3cd8d96)
 
 ## Result:
 Thus, Ridge, Lasso, and ElasticNet regularization models were implemented successfully to predict the car price and the model's performance was evaluated using R² score and Mean Squared Error.
